@@ -6,3 +6,4 @@
 |:---------:|:--------------------------------------------------------|:----------------------:|
 | 0001      | Multiples of 3 and 5                                    | :heavy_check_mark:     |
 | 0002      | Even Fibonacci numbers                                  | :heavy_check_mark:     |
+| 0003      | Largest prime factor                                    | :heavy_check_mark:     |
