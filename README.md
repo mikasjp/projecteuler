@@ -11,3 +11,4 @@
 | 0005      | Smallest multiple                                       | :heavy_check_mark:     |
 | 0006      | Sum square difference                                   | :heavy_check_mark:     |
 | 0007      | 10001st prime                                           | :heavy_check_mark:     |
+| 0008      | Largest product in a series                             | :heavy_check_mark:     |
