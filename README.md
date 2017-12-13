@@ -8,3 +8,4 @@
 | 0002      | Even Fibonacci numbers                                  | :heavy_check_mark:     |
 | 0003      | Largest prime factor                                    | :heavy_check_mark:     |
 | 0004      | Largest palindrome product                              | :heavy_check_mark:     |
+| 0005      | Smallest multiple                                       | :heavy_check_mark:     |
